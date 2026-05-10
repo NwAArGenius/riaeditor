@@ -1,0 +1,6 @@
+icon-gen.html
+.dockerignore
+deploy.sh
+*.conf
+*.md
+facture-*.png

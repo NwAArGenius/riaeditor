@@ -1,0 +1,6 @@
+services:
+  papaniang-editor:
+    build: .
+    ports:
+      - "3007:8082"
+    restart: unless-stopped
